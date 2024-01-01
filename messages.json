@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "bundle_id": "com.jios.test",
+    "title": "App Alert",
+    "text": "Warning: testing",
+    "confirm_label": "Ok"
+  }
+]
